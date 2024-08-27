@@ -1,3 +1,4 @@
-#JiQiFaZe
+# JiQiFaZe
+# 机器法则
 # jiqifaze.github.io
-机器法则
+
